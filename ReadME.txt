@@ -1,4 +1,3 @@
-QuestionBase.m is class for stroing questions , beta and x values for each knowledge unit.
-main.m gives MLE by calculating stationary points and evaluating the equation over those points.
-Stationary points are taken out by diffrentiating the equation for lambda and setting it to 0.
-
+User knowledge assessment system for resource constrained communities. Used knowledge space graph for
+representing connection between knowledge unit, and maximum likelihood estimation for learning user’s knowledge state.
+Developed in R
